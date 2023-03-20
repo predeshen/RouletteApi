@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteApi", "RouletteApi.csproj", "{C488A104-2C61-4A9A-8938-25AC56461D58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTests", "..\NUnitTests\NUnitTests.csproj", "{DC72DBEA-1EE4-4313-9723-5B296CE56ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C488A104-2C61-4A9A-8938-25AC56461D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C488A104-2C61-4A9A-8938-25AC56461D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C488A104-2C61-4A9A-8938-25AC56461D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C488A104-2C61-4A9A-8938-25AC56461D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC72DBEA-1EE4-4313-9723-5B296CE56ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC72DBEA-1EE4-4313-9723-5B296CE56ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC72DBEA-1EE4-4313-9723-5B296CE56ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC72DBEA-1EE4-4313-9723-5B296CE56ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC33CAE5-BA83-43C8-96A2-B987B115571B}
+	EndGlobalSection
+EndGlobal
