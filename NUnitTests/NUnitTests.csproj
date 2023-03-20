@@ -18,7 +18,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\source\Git\RouletteApi.csproj" />
+    <ProjectReference Include="..\RouletteApi\RouletteApi.csproj" />
   </ItemGroup>
+
+
 
 </Project>
